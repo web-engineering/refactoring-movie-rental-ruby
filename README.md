@@ -1,8 +1,8 @@
 Refactoring Ruby Edition, Chapter 1
 ===============
 
-BEWARE of two errors in the first
-chapter of the book ... 
+BEWARE of some syntax errors in the first
+chapter of the book!
 
 1)
 ==
@@ -37,5 +37,5 @@ and was removed in one of the recent versions
 module DefaultPrice
 end
 
-import Price  # <-- should be DefaultPrice also
+import Price  # <-- should be DefaultPrice
 ```
